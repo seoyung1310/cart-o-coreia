@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Park Jimin',
+    'Qual é uma peça de roupa comum que Jimin usa para um visual casual e confortável?',
+    'Moletons e camisetas oversized.'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'BTS',
+    'Qual é o nome do fandom oficial do BTS?',
+    'ARMY'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'BTS',
+    ' Em que ano o BTS fez sua estreia?',
+    '2013'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'BTS',
+    'Qual foi a primeira música do BTS a alcançar o primeiro lugar na Billboard Hot 100?',
+    ' "Dynamite".'
 )
